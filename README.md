@@ -107,3 +107,15 @@ cmd 2 >> npm run dev
 -> then we finish the set up
 
 
+## If there is an error on vite configuration, type
+cmd>> npm run build
+
+## CREATING LAYOUTS
+
+-> Create a folder in JS called "Layouts" 
+-> Add Layout.vue file
+
+-> Download Vue force Dev in google chrome webstore
+
+
+
